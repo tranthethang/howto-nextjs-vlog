@@ -1,0 +1,58 @@
+h3 {
+    text-align: center;
+}
+
+th {
+    background: #00cccc;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 12px 35px;
+}
+
+header {
+    font: 15px Monaco;
+    text-align: center;
+}
+
+table {
+    font-family: Arial;
+    margin: 25px auto;
+    border-collapse: collapse;
+    border: 1px solid #eee;
+    border-bottom: 2px solid #00cccc;
+}
+
+td {
+    color: #999;
+    border: 1px solid #eee;
+    padding: 12px 35px;
+    border-collapse: collapse;
+}
+
+list {
+    padding: 50px;
+    text-align: center;
+}
+
+photo {
+    display: inline-block
+}
+
+photoLink {
+    color: #333;
+    vertical-align: middle;
+    cursor: pointer;
+    background: #eee;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+    margin: 10px;
+    border: 2px solid transparent;
+    
+}
+
+photoLink :hover {
+    border-color: blue;
+}

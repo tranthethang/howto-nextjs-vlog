@@ -1,0 +1,27 @@
+.main {
+	padding: 50px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+header {
+	font: 15px Monaco;
+	text-align: center;
+}
+
+.panel {
+	float: right;
+	margin-right: 140px;
+	width: 300px
+}
+
+.singlePhoto {
+	border: 1px solid #999;
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+
+.heading {
+	font: 15px Monaco
+}
